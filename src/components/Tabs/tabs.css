@@ -1,0 +1,25 @@
+.tabs {
+  margin: 40px 0 0 40px;
+}
+
+.tab {
+  margin-top: 20px;
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: rgb(171, 114, 221);
+  padding: 10px 20px;
+  margin: 0 10px 0 0;
+  color: white;
+  border: 1px solid ;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px
+}
+
+.button:hover {
+  background-color: rgb(120, 73, 161);
+}
